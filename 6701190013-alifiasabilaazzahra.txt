@@ -2,3 +2,5 @@ Nama		: alifia sabila azzahra
 NIM		: 6701190013
 Tempat tanggal lahir	: Bandung, 2 Januari 2001
 IPK terakhir	: 3.84
+Hobi		: Memasak
+Cita-cita		: System Analyst
